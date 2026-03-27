@@ -100,6 +100,7 @@ int main(int argc, char *argv[]) {
 <img width="787" height="497" alt="image" src="https://github.com/user-attachments/assets/38abab6c-b5e5-42dc-8837-a4de9cb27735" />
 
 
+<img width="767" height="448" alt="image" src="https://github.com/user-attachments/assets/69398452-67cf-4139-8118-81d24755d6cd" />
 
 # RESULT:
 The programs are executed successfully.
